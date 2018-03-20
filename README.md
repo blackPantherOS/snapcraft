@@ -1,0 +1,2 @@
+# snapcraft
+SnapCraft Build Repository
